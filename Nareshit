@@ -3,13 +3,7 @@
         <div id="idl">
         <p id="h">India's No.1 Software Training Institute  </p>
         <p ID="H2" style="text-indent: 500px;">
-            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-            <img src="map.jpg" width="20px" height="13px">
+            <img src="map.jpg" width="20px" height="13px" style="margin-left: 600px; position: relative;">
             Hyderabad | Chennai | USA | Online Training</p>
         </div>
         <br><br>
