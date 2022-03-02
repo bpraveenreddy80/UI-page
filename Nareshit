@@ -1,0 +1,452 @@
+<html>
+    <head>
+        <div id="idl">
+        <p id="h">India's No.1 Software Training Institute  </p>
+        <p ID="H2" style="text-indent: 500px;">
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            <img src="map.jpg" width="20px" height="13px">
+            Hyderabad | Chennai | USA | Online Training</p>
+        </div>
+        <br><br>
+        <div>
+            <img src="yit.png" style="padding-left: 130px ; width: 280px; height: 70px;">
+            <img src="lo3.png" width="65px" height="55px" style="float: right; padding-right: 100px;"/>
+        </div>
+        <style>
+            #ol
+            {
+                display: inline-block;
+                width: 180px;
+                background-color: rgb(60, 107, 138);
+                text-align: center;
+                border-radius:15px 15px 15px 15px;
+                font-size: 20px;
+            }
+           #idl{
+                background-color: oldlace;
+                border: 0px inset oldlace;
+            }
+            #h{
+                display: inline;
+                padding-left: 150px;
+            }
+            #h2{
+                display: inline;
+                text-indent: 5em;
+            }
+            #k
+            {
+                background-color: oldlace;
+            }
+            #kl
+            {
+                display: inline-block;
+                text-align: center;
+                width: 190px;
+                font-size:17px;
+            }
+            a{
+                text-decoration: none;
+                color: white;
+                
+            }
+            #o
+            {
+                display: grid;
+                grid-template-columns: auto auto auto auto;
+                column-gap: 20px;
+                padding: 20px;
+            }
+            p{
+                font: 18px;
+            }
+            #sam
+            {
+                text-align: center; 
+                box-shadow: 2px 2px 2px 2px oldlace; 
+                width: 250px; height: 270px;
+            }
+            #sam1
+            {
+                text-align: center; 
+                box-shadow: 2px 2px 2px 2px oldlace; 
+                width: 150px; height: 230px;
+            }
+            #ks
+            {
+                width:250px;
+                 height:150px;
+            }
+            #sk
+            {
+                width:150px;
+                 height:100px;
+                border-radius: 5%;
+                
+            }
+            .dv:hover{
+                box-shadow: 2px 4px 3px 3px grey;
+            }
+            .di:hover{
+                box-shadow: 2px 4px 3px 4px grey;
+            }
+            input
+            {
+                font-size: 18px;
+                margin:auto;
+            }
+            span
+            {
+               font-size: 16px;
+            }
+        </style>
+    </head>
+    <body>
+        <div style="text-align: center; background-color: rgb(24, 100, 145); height: 45px; ">
+        <h3 id="kl"><a href="h">All Courses</a></h3>
+        <h3 id="kl"><a href="h">Software Training</a></h3>
+        <h3 id="kl"><a href="h">Services</a></h3>
+        <h3 id="kl"><a href="h">New Batches</a></h3>
+        <h3 id="kl"><a href="h">Library</a></h3>
+        <h3 id="kl"><a href="h">Nascom Approved Couses</a></h3>
+        <h3 id="kl"><a href="h">Login</a></h3>
+    </div>
+    <img src="nit1.jpg" width="1350" height="380" style="padding-left: 70px;"/>
+    <h1 style="text-align: center;">Our Services</h1>
+    <br>
+    <div id="o" > 
+        <div style="text-align: center;" >
+            <img src="cls.png" height="53px" width="65px"/>
+            <span>CLASSROOM TRAINING</span>
+            <P>Qulaity Training by Experts of various Technologies to suit aspirants from a different academic profile</P>
+        </div>
+        <div style="text-align: center;">
+            <img src="ot.png" height="53px" width="65px"/>
+            <span>ONLINE TRAINING</span>
+            <P>Experienced Faculty team provides the training suitable for all aspring IT Professionals</P>
+        </div>
+        <div style="text-align: center;">
+            <img src="ct.png" height="53px" width="65px"/>
+            <span>CORPORATE TRAINING</span>
+            <P>Customized Courses to meet Client Requirements across the Software Industry</P>
+        </div>
+        <div style="text-align: center;">
+            <img src="WT.png" height="53px" width="65px"/>
+            <span style="text-align: center;">CLASSROOM TRAINING</span>
+            <P>Exclusively Designed for Working Professionals from IT & Non-IT Backgrounds</P>
+        </div>
+    </div>
+    <hr>
+    <h2 align="center">Trending Courses</h2><br>
+    <div style="display: grid; grid-template-columns: auto auto auto auto auto; padding-left: 100px; padding-right: 100px;">
+        <div id="sam" >
+            <img src="go1.jpg" id="ks" class="dv">
+            <h3 >Go Programming Online</h3>
+            <p>View Course</p>
+        </div>
+        <div id="sam">
+            <img src="dm.jpg" id="ks" class="dv" >
+            <h3 >Digital Marketing Online Training
+            </h3>
+            <p>View Course</p>
+        </div>
+        <div id="sam" >
+            <img src="asp.jpg" id="ks" class="dv">
+            <h3 >ASP.NET Online Training</h3>
+            <p>View Course</p>
+        </div>
+        <div id="sam">
+            <img src="ad.jpg"id="ks" class="dv">
+            <h3 >Android Online Training</h3>
+            <p>View Course</p>
+        </div><div id="sam">
+            <img src="au.jpg" id="ks" class="dv">
+            <h3 >Automation Anywere Online Training</h3>
+            <p>View Course</p>
+        </div>
+    </div>
+    <br>
+    <div style="display: grid; grid-template-columns: auto auto auto auto auto; padding-left: 100px; padding-right: 100px;">
+        <div id="sam">
+            <img src="ag.jpg" id="ks" class="di">
+            <h3 >Angular 10 Online Training</h3>
+            <p>View Course</p>
+        </div>
+        <div id="sam">
+            <img src="li.jpg" id="ks" class="di">
+            <h3 >Linux Unix Online Training
+            </h3>
+            <p>View Course</p>
+        </div>
+        <div id="sam" >
+            <img src="as.jpg" id="ks" class="di">
+            <h3 >ASP.NET MVC Online Training</h3>
+            <p>View Course</p>
+        </div>
+        <div id="sam">
+            <img src="php.jpg"id="ks" class="di">
+            <h3 >PHP Online Training</h3>
+            <p>View Course</p>
+        </div><div id="sam">
+            <img src="bp.jpg" id="ks" class="di">
+            <h3 >Blueprism Online Training</h3>
+            <p>View Course</p>
+        </div>
+    </div><br><br>
+    <hr width="800px " style="color: burlywood;"> 
+    <br><br>
+    <p style="font-size: 28px; padding-left: 400px; display: inline;"> Popular <span style="font-weight: bold; font-size: 25px;">Technologies</span></p>
+    <div style="display: grid; grid-template-columns: auto auto;">
+        <div>
+                <h2 id="ol"><a href="#">BigData & Hadoop</a></h2>
+                <h2 id="ol"><a href="#">Devops</a></h2>
+                <h2 id="ol"><a href="#">Automation</a></h2>
+                <h2 id="ol"><a href="#">Cloud Technologies</a></h2>
+                <h2 id="ol"><a href="#">Web Technologies</a></h2>
+                <br>
+            <div style="display: grid ; grid-template-columns: auto auto auto auto auto; padding-left: 50px; padding-right: 20px; column-gap: 5px;">
+                <div id="sam1" >
+                    <img src="do.jpg" id="sk" class="dv">
+                    <h3 >Docker Online Training</h3>
+                    <p>View Course</p>
+                </div>
+                <div id="sam1">
+                    <img src="c.jpg" id="sk" class="dv" >
+                    <h3 >Chef Online Training
+                    </h3>
+                    <p>View Course</p>
+                </div>
+                <div id="sam1" >
+                    <img src="p.jpg" id="sk" class="dv">
+                    <h3 >Pupet Online Training</h3>
+                    <p>View Course</p>
+                </div>
+                <div id="sam1">
+                    <img src="j.jpg"id="sk" class="dv">
+                    <h3 >Android Online Training</h3>
+                    <p>View Course</p>
+                </div>
+                <div id="sam1">
+                    <img src="de.jpg" id="sk" class="dv">
+                    <h3 >Devops Online Training</h3>
+                    <p>View Course</p>
+                </div>
+                </div>
+            </div>
+        <div style="box-shadow: 2px 3px 4px 3px oldlace ; padding-left: 20px; width: 400px;">
+             <form id="i1" name="i10" >
+                 <H3 align="center">Enroll For Bright Training</H3>
+                <span style="width: 140px; display: inline-block;" >First Name * :</span>
+                   <input type="text" id="ii" name="ii" autocomplete="off"><br><br>
+                 <span style="width: 140px; display: inline-block;" >Last Name * :</span>
+                  <input type="text" id="ii" name="ii" autocomplete="off"><br><br>
+                <span style="width: 140px; display: inline-block;">Email * :</span>
+                <input type="email" id="ii" name="ii" autocomplete="off"><br><br>
+                <span style="width: 140px; display: inline-block;">Phone * :</span>
+               <input type="number" id="ii" name="ii" autocomplete="off"><br><br>
+               <span style="width: 140px; display: inline-block;">Mode of Training * :</span>
+               <select style="width: 225px;">
+               <option>Classroom Training</option>
+               <option>Online Traning</option>
+               </select><BR><BR>
+                <span style="width: 140px; display: inline-block;" >State * :</span>
+                 <input type="text" id="ii" name="ii"  autocomplete="off"><br><br>
+                <span style="width: 140px; display: inline-block;">Courses * :</span>
+                <!-- <input type="text" id="ii" name="ii"><br><br> -->
+                <select style="width: 225px;">
+                    <option>BTech</option>
+                    <option>B.Com</option>
+                    <option>BE</option>
+                    <option>BTc</option>
+                </select>
+                <h2 align="center"> <input type="submit" value="Enroll" id="i1" name="sb" style="font-size: 15px;"></h2>
+             </form>
+         </div>
+    </div>
+    <br><br>
+    <div style="background-image:url('bgs.jpg')">
+        <br><br>
+        <h2 align="center">Let's Update Your Skills from anywhere with Our Online Training Experts...</h2> 
+        <div style="display: grid; grid-template-columns: auto auto auto auto; padding: 30px; column-gap: 30px;" >
+            <div style="text-align: center;">
+                <img src="mem.jpg" width="35px" height="35"/>
+                <h3>1.Become Member</h3>
+                <p>Watch classes on your own schedule, anytime, anywhere.</p>
+            </div>
+            <div style="text-align: center;">
+                <img src="img.jpg" width="35px" height="35"/>
+                <h3>2. Learn By Doing</h3>
+                <p>Lessons are bite-sized with most classes under an hour.</p>
+            </div>
+            <div style="text-align: center;">
+                <img src="com.png" width="35px" height="35"/>
+                <h3>3. Engage with a Community</h3>
+                <p>Create projects and build a portfolio of work.</p>
+            </div>
+            <div style="text-align: center;">
+                <img src="lik.jpg" width="35px" height="35"/>
+                <h3>4. Take a Course</h3>
+                <p>Enroll in online classes taught by creators from around the world.</p>
+            </div>
+        </div>
+        <br>
+    </div>
+    <h1 align="center">Training Features</h1>
+    <br>
+    <div style="display: grid; grid-template-columns: auto auto auto ;">
+   
+        <div style="text-align: center;">
+            <img src="mem.jpg" width="50px" height="50px"/>
+            <h3>Instructor-Led Training Sessions</h3>
+            <p style="font-size: 15px;">We believe to provide our students the Best interactive <br>experience as part of their learning</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="et.png" width="50px" height="50px"/>
+            <h3>Expert Trainers</h3>
+            <p>We Constantly evaluate our trainers and only the <br>“Best” Provides the Training</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="fs.png" width= "50px" height="50px"/>
+            <h3>Flexible Schedule</h3>
+            <p>Do not hesitate to ask… because we will work according <br>to your calendar</p>
+            <br><br><br>
+        </div><div style="text-align: center;">
+            <img src="is.png" width="50px" height="50"/>
+            <h3>Instructor-Led Training Sessions</h3>
+            <p style="font-size: 15px;">We believe to provide our students the Best interactive <br>experience as part of their learning</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="el.png" width="50px" height="50"/>
+            <h3>Expert Trainers</h3>
+            <p>We Constantly evaluate our trainers and only the <br>“Best” Provides the Training</p>
+        </div>
+        <div style="text-align: center;">
+            <img src="24.png" width="50px" height="50"/>
+            <h3>Flexible Schedule</h3>
+            <p>Do not hesitate to ask… because we will work according <br>to your calendar</p>
+        </div>
+    </div>
+    <br>
+    <div style="background-image:url('net.jpg')">
+        <br>
+        <h1 align="center">8,00,000+ People Already Subscribed Our " YOUTUBE CHANNEL "</h1>
+        <p style="text-align: center; font-size: 18px;">Subscribe now and receive updates on emerging technologies and tools with on-demand video tutorials, new courses, interesting workshops, 
+            most popular topics and much more!</p>
+           <a href="https://www.youtube.com/c/NareshIT"><img src="you.png" width="100px" height="100px" style="padding-left: 30px;"/></a>
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+            &emsp;&emsp;&emsp;&emsp;
+            <img src="sub.jpg" width="300px" height="50px"  style=" border-radius: 30px;">    
+            <br>
+    </div>
+    <br>
+    <h2 align="center">Our Corporate Clients</h2>
+    <p style="text-align: center; padding:40px;">The corporate Training program is tailor-made to suit the working professionals
+         in the industry who are expected to have a shift in their domain or technology as per their career demand.
+         The corporate training courses are customized to meet the project requirements as expected from the corporate trainees</p>
+    <maquee>
+        <div style="padding: 50px; display: grid; grid-template-columns: auto auto auto auto auto auto auto auto auto;">
+        
+        <img src="ik.jpg" width="150px" height="120px" >&emsp;&emsp;&emsp;
+        <img src="qu.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;
+        <img src="netp.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;
+        <img src="ge.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;
+        <img src="di.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;&emsp;
+        <img src="ds.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;&emsp;
+        <img src="fs.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;&emsp;
+        <img src="cts.png" width="120px" height="120px">&emsp;&emsp;&emsp;&emsp;
+        <img src="sam1.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;&emsp;
+        
+    </div>
+</maquee>
+    <hr style="color: grey; width: 800px;" >
+    <br>
+    <h1 align="center">Our Trainees are Working with</h1>
+    <p style="text-align:center;">Our Trainees are working in more than 800+ Companies and Monthly 60+ Companies hire from us…</p>
+    <maquee>
+        <div style="padding: 50px; display: grid; grid-template-columns: auto auto auto auto auto auto auto auto auto;">
+        <marquee direction="left">
+        <img src="vr.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;
+        <img src="ca.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;
+        <img src="agl.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;
+        <img src="acc.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;
+        <img src="viv.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;&emsp;
+        <img src="trinti.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;&emsp;
+        <img src="te.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;&emsp;
+        <img src="TCS.jpg" width="150px" height="120px">&emsp;&emsp;&emsp;&emsp;
+        <img src="diy.jpg" width="150px" height="120px">
+        <img src="csc.jpg" width="150px" height="120px">
+        </marquee>
+    </div>
+</maquee>
+    <div style="background-color: rgb(42, 42, 143); height: 600px; display: grid; grid-template-columns: auto auto auto auto; padding:100px; padding-top: 20px; column-gap: 30px;">
+            <div style="color: white; padding-left: 50px;">
+                <p style="font-size:30px;">Reach Us@</p >
+                    <img src="map.jpg" width="20px" height="13px"/>
+                    <p style="display: inline;">Address:</p>
+                    <p>2nd Floor, Durga Bhavani Plaza,</p> 
+                    <p>Satyam Theatre Road,</p>
+                    <p>Ameerpet Hyderabad, Telangana 500016</p>
+                    <br>
+                    <img src="pho.png" width="25px" height="20px"/>
+                    <p style="display: inline;">Phone:</p>
+                    <p>(040) 2374 6666</p>
+                    <br>
+                    <img src="mail.jpg" width="25px" height="20px"/>
+                    <p style="display: inline;">Email:</p>
+                    <p>Yugandharg25714@gmail.com</p>
+                    <br>
+                    <img src="tim.png" width="25px" height="22px"/>
+                    <p style="display: inline;">Working Days/Hours :</p>
+                    <p>Mon - Sun / 6:00 AM - 9:30 PM</p>
+            </div>
+            <div style="color: white;">
+                <p style="font-size:30px;">Useful Links</p >
+                <p>Blog</p>
+                <p> Contact Us</p>
+                <p>Placement Registration</p>
+                <p style="font-size:30px;">For Freshers It Jobs</p >
+                    <p>SeshaJobs</p>
+                    <p> NareshJobs</p>  
+                    <p>Placement Registration</p>
+                    <h3>also find</h3 >
+                        <p>Our Branch Locations:</p>
+                        <p> Hyderabad | Chennai | USA | Online Training</p>  
+                        <p>Training</p>
+            </div>
+            <div style="color:white">
+                <p style="font-size:30px;">YugandharIT Reviews</p >
+                    <p>Google+ 4.4 on 2565 Reviews </p>
+                    <p> Facebook 4.6 on 654 Reviews</p>  
+                    <p>EduGorilla 4.9 on 103 Reviews</p>
+                    <p> Sulekha 4.0 283 Reviews</p>  
+                    <p> Justdial 4.1 on 5102 Reviews</p>  
+                    <p> Urbanpro 5.0 on 161 Reviews</p>   
+                    <p>  Local Enquiry 5.0 on Reviews</p>  
+            </div>
+            <div style="color:white">
+                <p style="font-size:30px;">For online Training</p >
+                    <h4>India</h4>
+                    <p style="font-size:30px;">+91 7673961393</p>
+                    <h4>Whatsapp</h4>
+                    <p style="font-size:30px;">+91 7673961393</p>
+                    <h4>USA</h4>
+                    <p style="font-size:30px;">+1 7673961393</p>
+                    <img src="mail.jpg" width="25px" height="18px"/>
+                    <h4 style="display: inline;">  Yugandharg25714@gmail.com</h4>
+                    <p style="font-size: 22px;">Follow Us</p>
+                    <img src="logo.jpg" width="280px" height="50px"/>
+            </div><br>
+            <h3 style="font-size: 23px; color: azure;"> Online Training in : </h3>
+<p style="font-size: 15px; color: azure;">Hyderabad, Bangalore, Chennai, Pune, Noida, Australia, Canada, UK, USA, Boston, California, Chicago, Dallas, New York, Orlando, Washington.</p>
+    </div>
+    <br>
+</body>
+</html>
